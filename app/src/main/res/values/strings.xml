@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Converter</string>
+
+    <string-array name="operations_array">
+        <item>Upper Case</item>
+        <item>Lower Case</item>
+    </string-array>
+</resources>
